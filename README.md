@@ -1,6 +1,6 @@
 # TPI2024CA5
 ## Control de Versionado
-### Integrantes del grupo:
+### Integrantes del grupo:  
 Maggi Mateo, mateomaggi123@gmail.com 
 Mansilla Pedro, pedromansilla154@gmail.com
 Pereyra Argüello Milagros, mpereyraarguello@gmail.com
