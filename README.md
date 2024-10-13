@@ -1,5 +1,5 @@
 # Trabajo Práctico Integrador 2024 - Análisis de Sistemas </br>
-### 🧑‍🏫: Docentes:
+### 🧑‍🏫 Docentes:
 - _**Ing. Achetta**_, Laura <br/>
 - _**Ing. Ortiz**_, Valeria <br/>
 - _**Ing. Simieli**_, Paola <br/>
