@@ -1,0 +1,5 @@
+Encargado de Recepción
+Cajero
+Supervisor
+Inspector
+Gerente

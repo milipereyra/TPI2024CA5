@@ -1,0 +1,7 @@
+- Fallas en el sistema (Bajo: 1h - Medio/Alto: Especificar en cuanto tiempo se va a solucionar)
+- Usabilidad: Manual de Usuario - Interfaz simple.
+- Informe: Emitir en menos de 3min los informes mensuales, en menos de 5min los diarios.
+- (Informe) Inspector desea saber el historial del vehículo.
+- (Informe - Reporte mensual) sobre facturaciones (en este sistema solo se factura en efectivo).
+
+- Legales (Ente regulador)
