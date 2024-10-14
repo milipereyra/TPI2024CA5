@@ -8,3 +8,7 @@
 - Legales (Ente regulador)
 - Seguridad lógica: Cada inspector se loguea con huella digital.
 - Seguridad física: Especificar en que lugares físicos se guardan los backups.
+- El sistema tendra una fecha de entrega designada
+
+- Se podran utilizar multiples cajeros en simultaneo sin que se bloqueen las funcionalidades
+-
