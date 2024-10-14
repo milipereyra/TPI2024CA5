@@ -1,0 +1,23 @@
+Los informes están expresados en listado [RNF asociado]
+! Todos los informes serán en formato excel o pdf.
+
+👨‍💼Encargado de Recepción
+  * Emitir un listado diario de turnos vigentes [en menos de 1 min]
+  
+👩‍💼Cajero
+  *Emitir la liquidación diaria de cada caja.... [en menos de 1 min]
+  *Emitir reporte facturación mensual.
+objetivo reporte: "facturación mensula inplica todos los movimientos de cobro de las revisiones de un periodo de 1 mes
+mostrando forma de pago (solo efectivo).
+
+👷‍♂️Supervisor/ Inspector
+  * Emitir reporte diario de los resultados de medición [en menos de 1 min]
+  *Generar y emitir reporte mensual de los resultados de medición [en menos de 3 min]
+  *Emitir hitorial por vehiculo, listando cuántas inspecciones realizó el vehiculo, si esta dentro fecha vencimiento o por cambio titular.
+objetivo reporte: " mostrar todas las inspecciones, donde se mostrarán todos los campos con los datos cargados luego de finalizarse
+la revisión, como echa de vencimiento, si fue cobrada, tipo factura emitida, adtos revisión, patente asociada, entre otros datos.
+
+🙎‍♀️Gerente
+  *Listado del tiempo del promedio que demora un vehiculo en hacer la VTV [en menos de 3 min]
+objetivo reporte: "mostrar todos los datos como fecha de entrada, hora, hasta que se le da la oblea, fecha y hora ingreso y egreso de cada
+sección, tiempo que hay desde que sale de la fosa hasta que se retire.
