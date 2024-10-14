@@ -1,6 +1,10 @@
-# TPI2024CA5
-## Control de Versionado
-### :technologist: Integrantes del grupo:
+# Trabajo Práctico Integrador 2024 - Análisis de Sistemas </br>
+### 🧑‍🏫 Docentes:
+- _**Ing. Achetta**_, Laura <br/>
+- _**Ing. Ortiz**_, Valeria <br/>
+- _**Ing. Simieli**_, Paola <br/>
+## Control de Versionado - Grupo CA5
+### :technologist: Integrantes:
 - _**Maggi**_ _Mateo_, mateomaggi123@gmail.com <br/>
 - _**Mansilla**_ _Pedro_, pedromansilla154@gmail.com <br/>
 - _**Pereyra Argüello**_ _Milagros_, mpereyraarguello@gmail.com <br/>

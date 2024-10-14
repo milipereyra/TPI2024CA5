@@ -1,0 +1,2 @@
+- Turnos es otro sistema (EXTERNO)
+- CU Registrar VTV: Tiene que tener relación con registrar cliente y registrar vehículo. Puede incluir o no el cobro. 

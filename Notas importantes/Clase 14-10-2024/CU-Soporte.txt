@@ -1,0 +1,6 @@
+- Tarifas (Actualizar precios...)
+- Empleados
+- Máquinas
+- Defectos visuales (modificar...)
+
+Nota: El actor es un supervisor técnico/administrador...

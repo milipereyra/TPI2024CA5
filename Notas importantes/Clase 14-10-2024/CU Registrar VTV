@@ -1,0 +1,17 @@
+---------------                     --------------------
+|Registrar VTV|  <----------<ext>  | Registrar Vehiculo | 
+---------------                    ---------------------
+    ^
+    | <ext>
+    |
+--------------------
+|Registrar cliente | 
+--------------------
+
+una opción es incluir tambien 
+  <ext> ------------------
+<----- | Registrar Cobro |
+        ------------------
+
+en este caso se puede considerar al caso de uso "Registrar Cobro" porque no siempre se cobra la VTV, por ejemplo en el caso 
+de que el cliente sea un bombero o un una persona con alguna categoria de la cual no se realiza el cobro de la vtv.
