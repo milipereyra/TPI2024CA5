@@ -5,7 +5,7 @@
 - _**Ing. Simieli**_, Paola <br/>
 ## Control de Versionado - Grupo CA5
 ### :technologist: Integrantes:
-- _**Maggi**_ _Mateo_, mateomaggi123@gmail.com <br/>
+- _**Maggi Mateo**_ _David_, mateomaggi123@gmail.com <br/>
 - _**Mansilla**_ _Pedro_, pedromansilla154@gmail.com <br/>
 - _**Pereyra Argüello**_ _Milagros_, mpereyraarguello@gmail.com <br/>
 - _**Petry**_ _Victoria_, victoriapetry12@gmail.com <br/>
