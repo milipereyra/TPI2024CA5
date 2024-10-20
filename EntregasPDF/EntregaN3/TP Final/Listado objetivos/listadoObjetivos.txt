@@ -1,0 +1,68 @@
+Listado de objetivos de casos de uso esenciales 
+
+Consultar Cliente:
+Brindar información sobre los datos personales de cada cliente registrado, como así también consultar los vehículos asociados
+que tiene el cliente como titular del mismo.
+
+Consultar Vehículo:
+Brindar información sobre los vehículos registrados en la VTV, indicando los datos como la patente, chasis, cilindrado,
+cantidad de ejes, y datos de revisiones anteriores si es que existen.
+
+Registrar Cobro:
+Calcular y registrar el saldo del cobro por el servicio de revisión prestado, indicando el único medio de pago efectivo
+y emitiendo la factura por el importe.
+
+Emitir informe de liquidación diaria:
+Generar y emitir informe de liquidación diaria indicando los siguientes datos: tipo de facturas emitidas, número de factura,
+razón social, tipo Iva, tipo servicio, fecha emitida.
+
+Emitir informe de facturación mensual:
+Generar y emitir informe sobre las facturaciones realizadas de manera mensual indicando las fechas de cobro
+de las revisiones(de clientes que deben abonar) y el monto de las mismas.
+
+Consultar Turnos vigentes:
+Brindar información de todos los Turnos registrados vigentes a la fecha actual para una revisión, indicando los datos del titular,
+del vehículo y el tipo de servicio(para este caso primera revisión).
+
+Registrar VTV:
+Registrar los resultados de la medición evaluados indicando los datos del inspector, datos del turno,tipo de servicio,
+datos del cobro, datos del cliente, datos del vehículo,  los datos de recepción, fecha de alta, en el caso de existir los defectos visuales.
+
+Registrar Cliente:
+Registrar los datos personales de una persona que solicita una revisión sin turno (o que no esté registrada aún) para la VTV,
+especificando nombre, apellido, tipo dni, DNI, domicilio, como también vehículo asociado.
+
+Registrar vehículo:
+Registrar datos del vehículo de un cliente, especificando: patente, nro de Chasis, marca, modelo, año de fabricación,
+tipo de vehículo y tipo de combustible, para luego poder incluir los datos del mismo en el informe de resultado final de la VTV.
+
+Consultar Oblea:
+Brindar información de las Obleas disponibles para ser asignadas.
+
+Consultar mediciones:
+Brindar información acerca de los datos registrados por el caso de Uso “Mediciones”.
+
+Asignar oblea nueva a vehículo:
+Asignar una oblea del stock a un vehículo con el resultado de la VTV aprobado. 
+
+Actualizar estado de oblea a consumida:
+Actualizar estado de oblea a consumida para fines de control de inventario.
+
+Actualizar estado de revisión:
+Actualizar el estado de una revisión según el resultado de la misma, siendo los posibles estados aprobadas, parcial y rechazadas.
+
+Registrar fin de VTV:
+Registrar los datos y resultados finales, implicando el registro de las obleas emitidas, fecha de vencimiento,
+resultado final o provisorio detallando si las medidas están o no aprobadas.
+
+Generar y emitir Informe de resultados de la VTV:
+Generar y emitir Informe a partir de los datos registrados de las mediciones detallando un resultado final que puede ser aprobado,
+desaprobado o parcial.
+
+Generar y emitir informe mensual de resultados obtenidos en la VTV:
+Generar y emitir informes mostrando todas las inspecciones, fecha de alta, fecha de vencimiento, el registro de obleas emitidas,
+el registro de las obleas canceladas, los resultados de las revisiones.
+
+Consultar VTV:
+Brindar información acerca de una revisión en concreto, ya sea, una revisión finalizada o con resultado condicional,
+indicando la fecha de inicio y fin de la misma, resultados de mediciones y defectos visuales, supervisor que la realizó y su estado.
