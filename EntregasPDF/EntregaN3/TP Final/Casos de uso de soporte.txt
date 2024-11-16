@@ -1,0 +1,48 @@
+Identificación de casos de uso de soporte:
+
+1) Administrar Cliente
+1.1) Registrar Cliente.(ABM)
+1.2) Consultar Cliente.(ABM)
+1.3) Modificar Cliente.(ABM)
+
+2) Administrar Vehículo
+2.1) Registrar Vehículo.(ABM)
+2.2) Validar documentación.
+2.3) Consultar Vehículo.(ABM)
+2.4) Modificar Vehículo.(ABM)
+
+3) Administrar Turno
+3.1) Registrar Turno.(ABM)
+3.2) Consultar Turno.(ABM)
+3.3) Actualizar Turno.(ABM)
+
+4) Administrar parámetro.
+4.1) Registrar Parámetro Límite.(ABM)
+4.2) Consultar Parámetro Límite.(ABM)
+4.3) Modificar Parámetro Límite.(ABM)
+
+5) Administrar Tarifa
+5.1) Registra Tarifa.(ABM)
+5.2) Consultar Tarifa.(ABM)
+5.3) Actualizar Tarifa.(ABM)
+5.4) Modificar Tarifa.(ABM)
+
+6) Administrar Máquina
+6.1) Registrar Máquina.(ABM)
+6.2) Consultar Maquina.(ABM)
+6.3) Modificar Máquina.(ABM)
+
+7) Administrar Empleado
+7.1) Registrar Empleado.(ABM)
+7.2) Consultar Empleado.(ABM)
+7.3) Modificar Empleado.(ABM)
+
+8) Administrar Defectos Visuales
+8.1) Registrar Defectos Visuales.(ABM)
+8.2) Consultar Defectos Visuales.(ABM)
+8.3) Modificar Defectos Visuales .(ABM)
+
+9) Administrar Oblea
+9.1) Registrar Oblea.(ABM)
+9.2) Consultar Oblea.(ABM)
+9.3) Cancelar Oblea.(ABM)
